@@ -189,4 +189,4 @@ Use SQL and Power BI to transform raw employee data into meaningful insights tha
 
 Show what the dashboard looks like. Example:
 
-https://github.com/YOUR-USERNAME/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
+https://github.com/sadnyali-rajguru/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20.png
